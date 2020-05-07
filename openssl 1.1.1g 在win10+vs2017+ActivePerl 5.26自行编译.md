@@ -56,3 +56,10 @@ sub _warn {
 
 
 前前后后百度谷歌尝试也有快3消失了，特此记录。最大感受就是：如果第三方库版本号和网上教程不一样，务必注意由于版本升级带来的编译方式不匹配问题，最直接的办法就是先仔细看网上教程中命令行提到的文件，然后在要编译的源码文件中查找是否有对应的，如果没有，则说明这个教程不适合你。
+
+
+下面2个是查找资料过程中觉得比较好的教程，虽然不适合我的版本，但还是贴出来供大家参考吧。
+
+https://blog.csdn.net/astroyang/article/details/96828458?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-5
+
+https://blog.csdn.net/tianse12/article/details/72844231
