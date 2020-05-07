@@ -2,8 +2,8 @@
 
 
 **主要过程：**
-1.下载openssl 1.1.1g源码
-2.安装ActivePerl 5.26
+1.下载openssl 1.1.1g源码(.tar.gz包)  https://www.openssl.org/source/
+2.安装ActivePerl 5.26 https://www.activestate.com/products/perl/downloads/
 3.perl Configure VC-WIN64A
 4.nmake
 
